@@ -1,0 +1,18 @@
+<templateSet group="user">
+  <template name="scan" value="java.util.Scanner scanner = new java.util.Scanner(java.lang.System.in);" description="Snippet for scanner" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="buf" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));" description="BufferedReader" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bps" value="import java.io.BufferedReader;&#10;import java.io.IOException;&#10;import java.io.InputStreamReader;&#10;&#10;public class Main {&#10;    public static void main(String[] args) throws IOException {&#10;        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));&#10;&#10;&#10;    }&#10;}" description="bufer + psvm" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
