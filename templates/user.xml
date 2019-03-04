@@ -15,7 +15,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mav" value="ModelAndView " toReformat="false" toShortenFQNames="true">
+  <template name="mav" value="ModelAndView " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
