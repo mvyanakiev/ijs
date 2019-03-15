@@ -15,7 +15,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mav" value="ModelAndView " description="" toReformat="false" toShortenFQNames="true">
+  <template name="mav" value="ModelAndView " description="add ModelAndView" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="col" value="  @Column(name = &quot;&quot;)" description="Column for Entity" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
