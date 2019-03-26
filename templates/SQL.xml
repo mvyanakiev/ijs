@@ -4,4 +4,10 @@
     <variable name="columns" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="col" value="$col$ $type$ $null$$END$" description="new column definition" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="col" expression="" defaultValue="&quot;col&quot;" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="&quot;int&quot;" alwaysStopAt="true" />
+    <variable name="null" expression="" defaultValue="&quot;not null&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>

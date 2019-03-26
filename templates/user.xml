@@ -20,7 +20,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="col" value="  @Column(name = &quot;&quot;)" description="Column for Entity" toReformat="false" toShortenFQNames="true">
+  <template name="col" value="@Column(name = &quot;$NAME$&quot;)" description="Column for Entity" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
