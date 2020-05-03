@@ -29,11 +29,6 @@
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-        </PlaceSettings>
-      </entry>
     </option>
   </component>
 </application>
