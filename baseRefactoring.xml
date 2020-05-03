@@ -6,6 +6,10 @@
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_DROP_CASTS" value="false" />
+    <option name="TYPE_COOK_PRESERVE_RAW_ARRAYS" value="false" />
+    <option name="TYPE_COOK_LEAVE_OBJECT_PARAMETERIZED_TYPES_RAW" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>
