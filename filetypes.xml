@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="input data" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern="moovie" type="PLAIN_TEXT" />
     </extensionMap>
