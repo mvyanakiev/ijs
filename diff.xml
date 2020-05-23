@@ -51,7 +51,6 @@
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
