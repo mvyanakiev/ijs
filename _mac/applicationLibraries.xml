@@ -32,5 +32,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="mysql" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Documents/GitHub/henri_ii_tool/node_modules/mysql" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/GitHub/henri_ii_tool/node_modules/mysql" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
