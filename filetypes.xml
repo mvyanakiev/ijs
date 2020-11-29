@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="other_SC" type="JAVA" />
-      <mapping pattern="input data" type="PLAIN_TEXT" />
-      <mapping pattern="link" type="PLAIN_TEXT" />
       <mapping pattern="inputData" type="PLAIN_TEXT" />
       <mapping pattern="moovie" type="PLAIN_TEXT" />
+      <mapping pattern="link" type="PLAIN_TEXT" />
+      <mapping pattern="input data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
