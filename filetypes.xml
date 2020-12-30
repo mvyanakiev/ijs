@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="other_SC" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="inputData" type="PLAIN_TEXT" />
       <mapping pattern="moovie" type="PLAIN_TEXT" />
       <mapping pattern="link" type="PLAIN_TEXT" />
